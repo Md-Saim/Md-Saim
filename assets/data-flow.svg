@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150" viewBox="0 0 800 150">
+  <style>
+    .node { fill: #10B98122; stroke: #10B981; stroke-width: 2; animation: glow 3.6s ease-in-out infinite; }
+    .n2 { animation-delay: .9s } .n3 { animation-delay: 1.8s } .n4 { animation-delay: 2.7s }
+    .label { font: 600 15px 'Fira Code', Consolas, monospace; fill: #10B981; text-anchor: middle; }
+    .cap { font: 12px 'Fira Code', Consolas, monospace; fill: #9ca3af; text-anchor: middle; }
+    .line { stroke: #10B98155; stroke-width: 2; stroke-dasharray: 4 4; }
+    @keyframes glow { 0%,100% { stroke-opacity: .45 } 50% { stroke-opacity: 1; fill: #10B98144 } }
+  </style>
+
+  <!-- connecting lines -->
+  <path class="line" d="M180 65 H230"/>
+  <path class="line" d="M380 65 H430"/>
+  <path class="line" d="M580 65 H630"/>
+
+  <!-- moving data packets -->
+  <g fill="#10B981">
+    <circle r="4"><animateMotion dur="1.2s" repeatCount="indefinite" path="M180 65 H230"/></circle>
+    <circle r="4"><animateMotion dur="1.2s" begin=".6s" repeatCount="indefinite" path="M180 65 H230"/></circle>
+    <circle r="4"><animateMotion dur="1.2s" begin=".3s" repeatCount="indefinite" path="M380 65 H430"/></circle>
+    <circle r="4"><animateMotion dur="1.2s" begin=".9s" repeatCount="indefinite" path="M380 65 H430"/></circle>
+    <circle r="4"><animateMotion dur="1.2s" begin=".6s" repeatCount="indefinite" path="M580 65 H630"/></circle>
+    <circle r="4"><animateMotion dur="1.2s" begin="1.2s" repeatCount="indefinite" path="M580 65 H630"/></circle>
+  </g>
+
+  <!-- nodes -->
+  <rect class="node" x="30"  y="37" width="150" height="56" rx="12"/>
+  <rect class="node n2" x="230" y="37" width="150" height="56" rx="12"/>
+  <rect class="node n3" x="430" y="37" width="150" height="56" rx="12"/>
+  <rect class="node n4" x="630" y="37" width="140" height="56" rx="12"/>
+  <text class="label" x="105" y="70">Source</text>
+  <text class="label" x="305" y="70">Transform</text>
+  <text class="label" x="505" y="70">Warehouse</text>
+  <text class="label" x="700" y="70">AI</text>
+
+  <text class="cap" x="400" y="130">raw data → clean data → insight</text>
+</svg>
