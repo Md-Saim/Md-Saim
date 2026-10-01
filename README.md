@@ -58,7 +58,7 @@ I love diving into the stuff I find interesting.
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Saim&hide_border=true&bg_color=00000000&color=10B981&line=10B981&point=10B981&area=true&area_color=10B981" alt="Contribution graph" width="100%" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 
 ---
