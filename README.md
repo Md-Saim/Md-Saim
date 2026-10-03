@@ -1,47 +1,76 @@
+<div align="center">
 
-**Moiz Ud Din Saim**  
-AI-Assisted Full Stack · Data · AI
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=520&lines=Building+systems+that+actually+ship;Not+just+another+CRUD+app;Data+%2B+AI+%2B+Full+Stack" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=MOIZ+UD+DIN+SAIM" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF2D55&center=true&vCenter=true&width=680&lines=AI-Assisted+Full+Stack+Developer;Data+Engineer+%7C+AI+Engineer;Building+real+systems+%2C+not+just+demos" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Saim&bg_color=0b0f19&color=00F0FF&line=FF2D55&point=00F0FF&area=true&hide_border=true&custom_title=Activity" width="95%"/>
 
 </div>
 
 ---
 
-I don’t collect certificates.  
-I build things people use.
+<div align="center">
 
-Currently studying CS at **UAF Constituent College Depalpur**, but most of my learning happens by shipping real software.
+### Currently shipping
 
----
+</div>
 
-### Things I’ve Built
+**Metalectric POS** — Offline-first POS built for a real manufacturing business (orders, inventory, receipts, finance tracking)
 
-**Metalectric POS**  
-Offline-first point of sale for a battery manufacturing business. Handles orders, inventory, receipts and financial tracking without needing the internet.
+**Grabbery** — Android media downloader for YouTube (4K + MP3), Instagram, TikTok (no watermark), Facebook + thumbnails, profiles & captions
 
-**Grabbery**  
-Android media downloader that actually works — YouTube (4K + MP3), Instagram, TikTok (no watermark), Facebook. Also grabs thumbnails, channel banners, profiles and captions.
+**Blur** — Console-style game launcher that auto-detects Steam, Epic, GOG, Ubisoft and standalone games
 
-**Blur**  
-Game launcher that looks and feels like a console UI. Automatically finds games from Steam, Epic, GOG, Ubisoft and standalone installs.
+**CleanSweep** — Fast Windows system cleaner & disk analyzer (C# / .NET 8)
 
-**CleanSweep**  
-Windows cleaner written in C# / .NET 8. Scans junk, visualizes disk usage, and cleans without the usual bloat.
+**Aurora Archive** — Lightweight native Windows archiver
 
-**Aurora Archive**  
-Small and fast native Windows archiver. No electron. No 100MB installer.
-
-**Highnote**  
-Chrome new-tab replacement with live wallpapers and productivity widgets.
+**Highnote** — Chrome new-tab extension with live wallpapers + widgets
 
 ---
 
-### Stack I Actually Use
+<div align="center">
 
-```bash
-Flutter / Dart        →  Mobile
-C# / .NET             →  Windows desktop
-TypeScript            →  Web & tools
-Python                →  Data & AI experiments
-Qt / Python           →  Desktop apps
+### Stack
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,ts,js,python,git,vscode&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Md-Saim&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00F0FF&icon_color=FF2D55&text_color=e6edf3" height="168" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saim&layout=compact&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00F0FF&text_color=e6edf3" height="168" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
+<br><br>
+
+<a href="https://github.com/Md-Saim">
+  <img src="https://img.shields.io/badge/GitHub-Md--Saim-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/brave_is_gone/">
+  <img src="https://img.shields.io/badge/Instagram-brave__is__gone-FF2D55?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Md-Saim&style=for-the-badge&color=00F0FF" />
+
+</div>
