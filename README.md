@@ -1,43 +1,47 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Moiz+Ud+Din+Saim;AI-Assisted+Full+Stack+Developer;Data+%26+AI+Engineer" alt="Typing Animation" />
+**Moiz Ud Din Saim**  
+AI-Assisted Full Stack · Data · AI
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Saim&bg_color=0d1117&color=00F5A0&line=00F5A0&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=520&lines=Building+systems+that+actually+ship;Not+just+another+CRUD+app;Data+%2B+AI+%2B+Full+Stack" />
 
 </div>
 
 ---
 
-### Who I Am
+I don’t collect certificates.  
+I build things people use.
 
-I'm a Computer Science student at **UAF Constituent College Depalpur** focused on building real, production-ready systems.
-
-I work across the full stack with strong interest in **Data Engineering** and **AI systems**.  
-Most of my projects are practical tools used in real environments — not just demos.
+Currently studying CS at **UAF Constituent College Depalpur**, but most of my learning happens by shipping real software.
 
 ---
 
-### Selected Work
+### Things I’ve Built
 
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| **[Metalectric POS](https://github.com/Md-Saim/Metalectric-POS-Software)** | Offline-first POS system for manufacturing (orders, inventory, receipts, finance) | Desktop |
-| **[Grabbery](https://github.com/Md-Saim/Grabbery-Social-Media-Videos-Downloader)** | High-performance media downloader for YouTube, Instagram, TikTok & Facebook | Flutter |
-| **[Blur](https://github.com/Md-Saim/Blur-Game-Launcher)** | Console-style game launcher with automatic detection across platforms | TypeScript |
-| **[CleanSweep](https://github.com/Md-Saim/CleanSweep)** | System cleaner and disk analyzer for Windows | C# · .NET 8 |
-| **[Aurora Archive](https://github.com/Md-Saim/Aurora-Archive)** | Fast native file archiver | C# |
-| **[Wall The Heaven](https://github.com/Md-Saim/Wall-The-Heaven)** | Multi-source wallpaper downloader with bulk packs | TypeScript |
-| **[Highnote](https://github.com/Md-Saim/Highnote---Live-wallpapers-and-widget)** | Customizable new-tab extension with live wallpapers | Chrome Extension |
+**Metalectric POS**  
+Offline-first point of sale for a battery manufacturing business. Handles orders, inventory, receipts and financial tracking without needing the internet.
+
+**Grabbery**  
+Android media downloader that actually works — YouTube (4K + MP3), Instagram, TikTok (no watermark), Facebook. Also grabs thumbnails, channel banners, profiles and captions.
+
+**Blur**  
+Game launcher that looks and feels like a console UI. Automatically finds games from Steam, Epic, GOG, Ubisoft and standalone installs.
+
+**CleanSweep**  
+Windows cleaner written in C# / .NET 8. Scans junk, visualizes disk usage, and cleans without the usual bloat.
+
+**Aurora Archive**  
+Small and fast native Windows archiver. No electron. No 100MB installer.
+
+**Highnote**  
+Chrome new-tab replacement with live wallpapers and productivity widgets.
 
 ---
 
-### Stack
+### Stack I Actually Use
 
-```text
-Languages     →  Dart · C# · TypeScript · Python · JavaScript
-Mobile        →  Flutter
-Desktop       →  .NET · Qt
-Data / AI     →  Python · Data Pipelines · Applied AI
-Tools         →  Git · VS Code · Android Studio
+```bash
+Flutter / Dart        →  Mobile
+C# / .NET             →  Windows desktop
+TypeScript            →  Web & tools
+Python                →  Data & AI experiments
+Qt / Python           →  Desktop apps
