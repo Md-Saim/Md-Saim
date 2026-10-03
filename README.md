@@ -1,73 +1,43 @@
 <div align="center">
 
-# 👋 Hi, I'm Moiz Ud Din Saim
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=700&lines=Moiz+Ud+Din+Saim;AI-Assisted+Full+Stack+Developer;Data+%26+AI+Engineer" alt="Typing Animation" />
 
-### Full Stack Developer • AI Enthusiast • Tool Builder
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+useful+tools;Windows+%7C+Android+%7C+Web;Clean+code+%26+good+UX;Always+learning" alt="Typing SVG" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Saim&bg_color=0d1117&color=00F5A0&line=00F5A0&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
 ---
 
-### 🚀 About Me
+### Who I Am
 
-I'm a **BS Computer Science** student at **UAF Constituent College Depalpur** (2023–2027).  
-I love creating practical tools that solve real problems — from media downloaders to system utilities and game launchers.
+I'm a Computer Science student at **UAF Constituent College Depalpur** focused on building real, production-ready systems.
 
-- 🔭 Currently working on **Grabbery** & Windows tools
-- 🌱 Learning deeper **System Programming** and **AI**
-- 💡 Focused on clean architecture and long-term maintainability
+I work across the full stack with strong interest in **Data Engineering** and **AI systems**.  
+Most of my projects are practical tools used in real environments — not just demos.
 
 ---
 
-### 🛠️ Featured Projects
+### Selected Work
 
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| **[Grabbery](https://github.com/Md-Saim/Grabbery-Social-Media-Videos-Downloader)** | Universal media downloader (YouTube, IG, TikTok, FB) | Flutter |
-| **[Blur Game Launcher](https://github.com/Md-Saim/Blur-Game-Launcher)** | Beautiful PS5-style game launcher | TypeScript |
-| **[CleanSweep](https://github.com/Md-Saim/CleanSweep)** | Minimalist Windows system cleaner | C# / .NET 8 |
-| **[Aurora Archive](https://github.com/Md-Saim/Aurora-Archive)** | Ultra-lightweight Windows file archiver | C# |
-| **[Wall The Heaven](https://github.com/Md-Saim/Wall-The-Heaven)** | Multi-source wallpaper downloader | TypeScript |
-| **[YourTorrent](https://github.com/Md-Saim/YourTorrent)** | Modern lightweight torrent client | JavaScript |
-
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,ts,js,python,git,github,vscode" />
-</p>
+| Project | What it does | Stack |
+|:--------|:-------------|:------|
+| **[Metalectric POS](https://github.com/Md-Saim/Metalectric-POS-Software)** | Offline-first POS system for manufacturing (orders, inventory, receipts, finance) | Desktop |
+| **[Grabbery](https://github.com/Md-Saim/Grabbery-Social-Media-Videos-Downloader)** | High-performance media downloader for YouTube, Instagram, TikTok & Facebook | Flutter |
+| **[Blur](https://github.com/Md-Saim/Blur-Game-Launcher)** | Console-style game launcher with automatic detection across platforms | TypeScript |
+| **[CleanSweep](https://github.com/Md-Saim/CleanSweep)** | System cleaner and disk analyzer for Windows | C# · .NET 8 |
+| **[Aurora Archive](https://github.com/Md-Saim/Aurora-Archive)** | Fast native file archiver | C# |
+| **[Wall The Heaven](https://github.com/Md-Saim/Wall-The-Heaven)** | Multi-source wallpaper downloader with bulk packs | TypeScript |
+| **[Highnote](https://github.com/Md-Saim/Highnote---Live-wallpapers-and-widget)** | Customizable new-tab extension with live wallpapers | Chrome Extension |
 
 ---
 
-### 📊 GitHub Stats
+### Stack
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Md-Saim&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=ffffff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saim&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=ffffff" />
-</div>
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/Md-Saim">
-    <img src="https://img.shields.io/badge/GitHub-Md--Saim-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/brave_is_gone/">
-    <img src="https://img.shields.io/badge/Instagram-brave__is__gone-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Saim&style=flat-square&color=10B981" alt="Profile views" />
-</div>
-
-<p align="center">
-  <i>"Build things that last."</i>
-</p>
+```text
+Languages     →  Dart · C# · TypeScript · Python · JavaScript
+Mobile        →  Flutter
+Desktop       →  .NET · Qt
+Data / AI     →  Python · Data Pipelines · Applied AI
+Tools         →  Git · VS Code · Android Studio
