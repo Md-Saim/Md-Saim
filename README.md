@@ -1,82 +1,73 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1&pause=1000&color=00FF9F&center=true&vCenter=true&width=700&lines=MOIZ+UD+DIN+SAIM" />
+# 👋 Hi, I'm Moiz Ud Din Saim
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FF0055&center=true&vCenter=true&width=680&lines=AI-Assisted+Full+Stack+Developer;Data+Engineer+%7C+AI+Engineer;I+build+systems+that+ship" />
+### Full Stack Developer • AI Enthusiast • Data Engineer
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Saim&bg_color=0a0a0a&color=00FF9F&line=FF0055&point=00FF9F&area=true&hide_border=true" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+useful+tools;Windows+%7C+Android+%7C+Web;Clean+code+%26+good+UX;Always+learning" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### ✦ Projects
+### 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF9F&width=500&lines=Selected+work+I+actually+shipped" />
+I'm a **BS Computer Science** student at **UAF Constituent College Depalpur** (2023–2027).  
+I love diving into the stuff i find interesting!!
 
-<br>
-
-> **Metalectric POS**  
-> Offline-first point of sale for a manufacturing business. Orders, inventory, receipts, and financial tracking — no internet required.
-
-> **Grabbery**  
-> Android media downloader. YouTube 4K + MP3, Instagram, TikTok (no watermark), Facebook. Also downloads thumbnails, channel banners, profiles and captions.
-
-> **Blur**  
-> Console-style game launcher. Auto-detects Steam, Epic, GOG, Ubisoft and standalone games.
-
-> **CleanSweep**  
-> Windows system cleaner and disk analyzer built with C# / .NET 8.
-
-> **Aurora Archive**  
-> Fast native Windows file archiver. Lightweight and direct.
-
-> **Highnote**  
-> Chrome new-tab extension with live wallpapers and productivity widgets.
+- 🔭 Currently diving into Data Engineering
+- 🌱 Learning deeper **Data Flow** and **AI**
+- 💡 Focused on clean architecture and long-term maintainability
 
 ---
 
-### ✦ Stack
+### 🛠️ Featured Projects
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **[Grabbery](https://github.com/Md-Saim/Grabbery-Social-Media-Videos-Downloader)** | Universal media downloader (YouTube, IG, TikTok, FB) | Flutter |
+| **[Blur Game Launcher](https://github.com/Md-Saim/Blur-Game-Launcher)** | Beautiful PS5-style game launcher | TypeScript |
+| **[CleanSweep](https://github.com/Md-Saim/CleanSweep)** | Minimalist Windows system cleaner | C# / .NET 8 |
+| **[Aurora Archive](https://github.com/Md-Saim/Aurora-Archive)** | Ultra-lightweight Windows file archiver | C# |
+| **[Wall The Heaven](https://github.com/Md-Saim/Wall-The-Heaven)** | Multi-source wallpaper downloader | TypeScript |
+| **[Metalectric POS](https://github.com/Md-Saim/Metalectric-POS-Software)** | Metaletrics POS Software | HTML5, CSS3, Vanilla JavaScript (SPA) |
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,ts,js,python,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,ts,python,js,git,vscode&theme=dark" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+C%23+%7C+.NET+%7C+TypeScript+%7C+Python" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Md-Saim&show_icons=true&theme=transparent&hide_border=true&title_color=10B981&icon_color=10B981&text_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saim&layout=compact&theme=transparent&hide_border=true&title_color=10B981&text_color=ffffff" />
 </div>
 
 ---
 
-### ✦ Overview
+### 🔗 Connect with Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Saim&show_icons=true&theme=transparent&hide_border=true&title_color=00FF9F&icon_color=FF0055&text_color=e0e0e0&bg_color=0a0a0a" height="158"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Saim&layout=compact&theme=transparent&hide_border=true&title_color=00FF9F&text_color=e0e0e0&bg_color=0a0a0a" height="158"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Md-Saim">
+    <img src="https://img.shields.io/badge/GitHub-Md--Saim-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/brave_is_gone/">
+    <img src="https://img.shields.io/badge/Instagram-brave__is__gone-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<br><br>
-
-<a href="https://github.com/Md-Saim">
-  <img src="https://img.shields.io/badge/GitHub-Md--Saim-00FF9F?style=for-the-badge&logo=github&logoColor=0a0a0a" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/brave_is_gone/">
-  <img src="https://img.shields.io/badge/Instagram-brave__is__gone-FF0055?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Md-Saim&style=for-the-badge&color=00FF9F&label=PROFILE+VIEWS" />
-
+  <img src="https://komarev.com/ghpvc/?username=Md-Saim&style=flat-square&color=10B981" alt="Profile views" />
 </div>
+
+<p align="center">
+  <i>"Build things that last."</i>
+</p>
