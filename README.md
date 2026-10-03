@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • AI Enthusiast • Data Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Building+useful+tools;Windows+%7C+Android+%7C+Web;Clean+code+%26+good+UX;Always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=560&lines=Building+useful+tools;Windows+%7C+Android+%7C+Web;Clean+code+%26+good+UX;Always+learning;Data+Engineering+%26+AI" alt="Typing SVG" />
 
 </div>
 
@@ -13,9 +13,9 @@
 ### 🚀 About Me
 
 I'm a **BS Computer Science** student at **UAF Constituent College Depalpur** (2023–2027).  
-I love diving into the stuff i find interesting!!
+I love diving into the stuff I find interesting.
 
-- 🔭 Currently diving into Data Engineering
+- 🔭 Currently diving into **Data Engineering**
 - 🌱 Learning deeper **Data Flow** and **AI**
 - 💡 Focused on clean architecture and long-term maintainability
 
@@ -30,7 +30,7 @@ I love diving into the stuff i find interesting!!
 | **[CleanSweep](https://github.com/Md-Saim/CleanSweep)** | Minimalist Windows system cleaner | C# / .NET 8 |
 | **[Aurora Archive](https://github.com/Md-Saim/Aurora-Archive)** | Ultra-lightweight Windows file archiver | C# |
 | **[Wall The Heaven](https://github.com/Md-Saim/Wall-The-Heaven)** | Multi-source wallpaper downloader | TypeScript |
-| **[Metalectric POS](https://github.com/Md-Saim/Metalectric-POS-Software)** | Metaletrics POS Software | HTML5, CSS3, Vanilla JavaScript (SPA) |
+| **[Metalectric POS](https://github.com/Md-Saim/Metalectric-POS-Software)** | Offline-first POS for manufacturing | HTML · CSS · JS |
 
 ---
 
@@ -38,6 +38,10 @@ I love diving into the stuff i find interesting!!
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,ts,js,python,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=520&lines=Flutter+%7C+Dart+%7C+C%23+%7C+.NET+%7C+TypeScript+%7C+Python" />
 </p>
 
 ---
@@ -51,12 +55,27 @@ I love diving into the stuff i find interesting!!
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Saim&bg_color=0d1117&color=10B981&line=10B981&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</div>
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://github.com/Md-Saim">
     <img src="https://img.shields.io/badge/GitHub-Md--Saim-181717?style=for-the-badge&logo=github" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/brave_is_gone/">
     <img src="https://img.shields.io/badge/Instagram-brave__is__gone-E4405F?style=for-the-badge&logo=instagram" />
   </a>
